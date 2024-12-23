@@ -17,3 +17,8 @@ class Characters:
                     line_count += 1
 
             return BrawlersID
+
+    def getDefaultBrawlers():
+        BrawlersID = []
+
+        
